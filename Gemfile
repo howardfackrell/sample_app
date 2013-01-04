@@ -23,7 +23,7 @@ end
 group :development, :test do
   gem 'rspec'
   gem 'rspec-rails'
-  gem 'capybara'
+  gem 'capybara', '1.1.2'
 end
 
 gem 'jquery-rails'
