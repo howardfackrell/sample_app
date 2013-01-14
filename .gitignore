@@ -14,5 +14,14 @@
 /log/*.log
 /tmp
 
+# Ignore the Gemfile.lock file
+/Gemfile.lock
+
+# Ignore config/database.yml
+/config/database.yml
+
+
 .idea
 .project
+
+
